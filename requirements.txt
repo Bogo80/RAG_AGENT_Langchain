@@ -1,0 +1,14 @@
+langgraph
+langgraph-sdk
+langgraph-checkpoint-sqlite
+langsmith
+langchain-community
+langchain-core
+langchain-openai
+notebook
+tavily-python
+wikipedia
+python-dotenv
+chromadb
+langchain-tavily
+faiss-cpu

@@ -1,0 +1,23 @@
+# Ignore virtual environment folders
+.venv/
+venv/
+
+# Bytecode and compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore all environment variable files except example
+.env
+.env.*
+!.env.example
+
+# VSCode project settings (optional)
+.vscode/
+
